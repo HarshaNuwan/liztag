@@ -1,0 +1,80 @@
+{
+  "advertisements": [
+    {
+      "advertisementId": 10001,
+      "name": "House for rent in Maradana",
+      "price": "Rs. 120000.00",
+      "isBoosted": true,
+      "isLastItem": false,
+      "viewCount" : 10,
+      "lng": 6.995311,
+      "lat": 79.944422,
+      "tags": [
+        {
+          "tagName": "Rooms 2"
+        },
+        {
+          "tagName": "Attached Bathrooms 2"
+        }
+      ],
+      "images": [
+        {"imagePath": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"},
+        {"imagePath": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png"}
+      ]
+    },
+    {
+      "advertisementId": 10002,
+      "name": "Apartment for sale in Rajagiriya",
+      "price": "Rs. 1000000.00",
+      "isBoosted": false,
+      "isLastItem": false,
+      "viewCount" : 22,
+      "lng": 7.008462,
+      "lat": 79.968498,
+      "tags": [
+        {
+          "tagName": "Rooms 2"
+        },
+        {
+          "tagName": "Attached Bathrooms 2"
+        }
+      ],
+      "images": [
+        {"imagePath": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"},
+        {"imagePath": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png"}
+      ]
+    },
+    {
+      "advertisementId": 10003,
+      "name": "Apartment for sale in Rajagiriya",
+      "price": "Rs. 1000000.00",
+      "isBoosted": false,
+      "isLastItem": true,
+      "viewCount" : 22,
+      "lng": 6.998027,
+      "lat": 79.948988,
+      "tags": [
+        {
+          "tagName": "Rooms 2"
+        },
+        {
+          "tagName": "Attached Bathrooms 2"
+        },
+        {
+          "tagName": "Attached Bathrooms 2"
+        },
+        {
+          "tagName": "Attached Bathrooms 2"
+        },
+        {
+          "tagName": "Attached Bathrooms 2"
+        }
+      ],
+      "images": [
+        {"imagePath": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"},
+        {"imagePath": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png"},
+        {"imagePath": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"}
+      ]
+    }
+  ]
+}
